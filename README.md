@@ -1,4 +1,4 @@
-# [new-blog-test-3](http://lamurakami.github.io/new-blog-test-3)
+# [new-blog-test-3](http://lamurakami.github.io/new-blog-test-3/)
 
 Create a jekyll test site for GitHub Pages
 
