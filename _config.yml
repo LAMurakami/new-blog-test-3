@@ -1,0 +1,9 @@
+title: A jekyll test site for GitHub Pages
+description: A jekyll test site for GitHub Pages
+email: "new-blog-test-3@lamurakami.com"
+baseurl: "/new-blog-test-3" # the subpath of the site = /repo_name
+url: "https://github.lamurakami.com"
+github_username: LAMurakami
+
+# Build settings
+markdown: kramdown
