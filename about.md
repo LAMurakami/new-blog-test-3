@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About A jekyll test site for GitHub Pages
+permalink: /About/
+top_nav_name: About
 ---
 
 # [new-blog-test-3](http://lamurakami.github.io/new-blog-test-3/)
